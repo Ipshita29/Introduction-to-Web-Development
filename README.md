@@ -4,9 +4,9 @@ This repository contains all of the code for each individual lesson and is broke
 Welcome! This repository contains all the code for each lesson, structured into three main sections:
 
 ## **Project Structure**
-- ![HTML Logo](https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg) **HTML** – Structure of the website  
-- ![CSS Logo](https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg) **CSS** – Styling and design  
-- ![JavaScript Logo](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png) **JavaScript** – Interactivity and functionality  
+- **HTML** – Structure of the website  
+- **CSS** – Styling and design  
+- **JavaScript** – Interactivity and functionality  
 
 ---
 
